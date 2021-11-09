@@ -1,0 +1,110 @@
+.form-label-group {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.navbar-light {
+    background-color: #28587b !important;
+}
+
+.navbar-light .navbar-brand {
+    color: #eeeeff;
+}
+
+body {
+    background: #9fb4c7;
+}
+.row {
+    justify-content: center;
+    padding-bottom: 5vh;
+}
+
+.inputRow {
+    justify-content: center;
+    padding-bottom: 5vh;
+}
+
+.card-add {
+    width: 60%;
+    padding-top: 1vh;
+    margin-top: 4vh;
+    padding: 3vh;
+}
+
+.card-list {
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+.card-title {
+    padding-bottom: 2vh;
+}
+
+.btn-lg {
+    width: 90%;
+}
+
+.btn-primary:disabled {
+    background-color: #7f7caf;
+    border-color: #7f7caf;
+}
+
+
+.card-header {
+    padding: 0;
+}
+
+.card-body {
+    padding: 5%;
+}
+
+
+.card-container {
+    padding: 2px 20px;
+    margin-top: 10px;
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.roundRedButton {
+    border-radius: 50%;
+    background-color: rgba(170, 43, 4, 0.76);
+    width: 70px;
+    height: 70px;
+    align-content: center;
+}
+
+.roundBlueButton {
+    border-radius: 50%;
+    background-color: #0465aa;
+    width: 70px;
+    height: 70px;
+    align-content: center;
+
+}
+
+.studentCard {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background: #9fb4c7;
+}
